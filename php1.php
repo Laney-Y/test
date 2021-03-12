@@ -1,2 +1,3 @@
 <?pjp
 phpinfo();
+1
